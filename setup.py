@@ -36,7 +36,6 @@ if __name__ == "__main__":
                 "sentinel==0.3.0",
                 "sqlalchemy>=1.4",
                 "strawberry-graphql>=0.95",
-                "importlib-metadata==4.11.1",
             ],
         )
     except:  # noqa
